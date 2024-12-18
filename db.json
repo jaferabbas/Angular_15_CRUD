@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "Users": [
+    {
+      "id": "89b3",
+      "Name": "Danish",
+      "Email": "abulabbas786@gmail.com",
+      "Mobile": 8543866600,
+      "Age": 25
+    },
+    {
+      "id": "66c2",
+      "Name": "Avinash",
+      "Email": "avinash@gmail.com",
+      "Mobile": 8974568549,
+      "Age": 20
+    },
+    {
+      "id": "d19b",
+      "Name": "Ashraf",
+      "Email": "ashraf@gmail.com",
+      "Mobile": 7457845127,
+      "Age": 24
+    },
+    {
+      "id": "44e4",
+      "Name": "Ashutosh",
+      "Email": "ashutosh@gmail.com",
+      "Mobile": 8745784578,
+      "Age": 22
+    },
+    {
+      "id": "6269",
+      "Name": "Test User",
+      "Email": "test@gmail.com",
+      "Mobile": 1111111111,
+      "Age": 78
+    },
+    {
+      "id": "77cb",
+      "Name": "Amir",
+      "Email": "Amir@gmail.com",
+      "Mobile": 8934870919,
+      "Age": 25
+    },
+    {
+      "id": "83d4",
+      "Name": "Hasan ",
+      "Email": "hasan@gmail.com",
+      "Mobile": 8574598647,
+      "Age": 20
+    },
+    {
+      "id": "f5c1",
+      "Name": "Zamanat",
+      "Email": "zamanat@gmail.com",
+      "Mobile": 7458745874,
+      "Age": 18
+    },
+    {
+      "id": "6468",
+      "Name": "Roman Reign",
+      "Email": "roman@gmail.com",
+      "Mobile": 9090909090,
+      "Age": 45
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
